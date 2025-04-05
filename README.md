@@ -88,6 +88,8 @@ inspect-http-proxy -target <target-url> [flags]
 
 Here's a sample of what the console output might look like (colors omitted for basic Markdown):
 
+![Screenshot](assets/screenshot.png)
+
 ```
 --- Incoming Request ---
 Time: 2025-04-04T10:30:01Z
